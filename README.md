@@ -1,9 +1,12 @@
 ### Hi there 👋
+My Hobby is trying and error!!
+
+Let's Coding
+
 
 <!--
 **NuyHaryan/NuyHaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 this is my profile so, lets enjoy with this
 - 🔭 I’m currently working on happines
 - 🌱 I’m currently learning ...
