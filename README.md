@@ -1,8 +1,6 @@
 ### Hi there 👋
 My Hobby is trying and error!!
 Let's Coding
-
-
 Oh begini toh tampilannya, aku buat cabang dulu deh ya
 
 
