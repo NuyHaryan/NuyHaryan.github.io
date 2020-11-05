@@ -1,1 +1,0 @@
-# NuyHaryan.github.io
